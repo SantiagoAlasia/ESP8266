@@ -12,6 +12,7 @@ Este repositorio reúne el diseño, implementación y documentación de distinto
 - Firmware y software
 - Librerías y ejemplos para manejo de GPIO, ADC, PWM, comunicación serial, I2C y SPI
 - Implementación de protocolos y funcionalidades IoT
+- Documentación sobre PlatformIO: https://docs.platformio.org/en/latest/integration/ide/vscode.html#ide-vscode
 
 🎯 Objetivo del proyecto
 
